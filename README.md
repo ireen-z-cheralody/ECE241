@@ -19,3 +19,8 @@ A collection of digital logic design labs covering fundamental hardware componen
 - Registers
 - Counters
 - Finite State Machines (FSMs)
+
+## Author
+
+**Ireen Cheralody**  
+University of Toronto — Computer Engineering + PEY Co-op
